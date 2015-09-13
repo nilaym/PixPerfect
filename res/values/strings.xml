@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PixPerfect</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="grayscaleButton">Grayscale</string>
+    <string name="negateButton">Negate</string>
+    <string name="saveButton">Save</string>
+    <string name="loadButton">Load</string>
+    <string name="regularButton">Regular</string>
+    <string name="edgeButton">Edge Detection</string>
+    <string name="editButton">Edit Picture</string>
+    <string name="editFaceButton">Edit Face</string>
+    <string name="sepiaButton">Sepia</string>
+
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/edgeDetectionButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/edgeButton"
+            android:layout_gravity="center_horizontal" />
+        
+        <Button
+            android:id="@+id/grayscaleButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/grayscaleButton" 
+            android:layout_gravity="center_horizontal"/>
+
+        <Button
+            android:id="@+id/negateButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/negateButton" 
+            android:layout_gravity="center_horizontal"/>
+        
+         <Button
+            android:id="@+id/regularButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/regularButton" 
+            android:layout_gravity="center_horizontal"/>
+
+         <Button
+             android:id="@+id/editFaceButton"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:text="@string/editFaceButton"
+             android:layout_gravity="center_horizontal" />
+
+         <Button
+             android:id="@+id/sepiaButton"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:text="@string/sepiaButton" 
+             android:layout_gravity="center_horizontal"/>
+
+</LinearLayout>
